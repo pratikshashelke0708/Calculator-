@@ -2,7 +2,6 @@
 Pratiksha Shelke
 
 1. Structure:
-
 Input: User enters numbers and selects an operation (addition, subtraction, multiplication, division, etc.).
 Processing: Perform calculations based on the selected operation.
 Output: Display the result on the screen.
@@ -19,7 +18,7 @@ User inputs second number → store it.
 Perform the operation → calculate result based on the operation selected.
 Display the result → allow further operations or reset for new calculation.
 
-Tools/Tags Used:
+4. Tools/Tags Used:
 Languages: HTML, CSS, JavaScript (web version) or Python/Java (console version)
 Functions: For handling operations, updating display, and resetting calculator
 Event Handling / Input Handling: To capture button clicks or keypresses
